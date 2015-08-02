@@ -1,0 +1,8 @@
+[package]
+name = "serial_port"
+version = "0.1.0"
+authors = ["ecoal95 <ecoal95@gmail.com>"]
+
+[dependencies]
+libc = "*"
+termios = "*"
